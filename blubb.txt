@@ -1,0 +1,78 @@
+  502 24482 R 43347608   4096 SparkleShare ??/A/CoreWLAN/..namedfork/rsrc
+  502 24482 R 43346904   4096 SparkleShare ??/A/CoreWLAN/..namedfork/rsrc
+  502 24482 R 43347296  28672 SparkleShare ??/A/CoreWLAN/..namedfork/rsrc
+  502 24482 R 43347240  28672 SparkleShare ??/A/CoreWLAN/..namedfork/rsrc
+  502 24482 R 183756200   4096 SparkleShare ??/dyld/dyld_shared_cache_i386
+/..namedfork/rsrc634192   4096 SparkleShare ??/Icon
+  502 24482 R 17986088   4096 SparkleShare ??/Resources/HIToolbox.rsrc/..namedfork/rsrc
+  502 24482 R 17986008   4096 SparkleShare ??/English.lproj/Localized.rsrc/..namedfork/rsrc
+  502 24482 R 183648792   4096 SparkleShare ??/dyld/dyld_shared_cache_i386
+/..namedfork/rsrc637072  98304 SparkleShare ??/Icon
+  502 24482 R 367205560  28672 SparkleShare ??/MonoBundle/MonoMac.dll
+  502 24482 R 367207584  24576 SparkleShare ??/MonoBundle/MonoMac.dll
+/..namedfork/rsrc634192   4096 SparkleShare ??/Icon
+  502 24482 R 367209888  36864 SparkleShare ??/MonoBundle/MonoMac.dll
+  502 24482 R 367209800  36864 SparkleShare ??/MonoBundle/MonoMac.dll
+  502 24482 R 367209608  20480 SparkleShare ??/MonoBundle/MonoMac.dll
+  502 24482 R 367205416   8192 SparkleShare ??/MonoBundle/MonoMac.dll
+  502 24482 R 367204608  65536 SparkleShare ??/MonoBundle/MonoMac.dll
+  502 24482 R 367208720   4096 SparkleShare ??/MonoBundle/MonoMac.dll
+  502 24482 R 367209008  16384 SparkleShare ??/MonoBundle/MonoMac.dll
+  502 24482 R 367209584   8192 SparkleShare ??/MonoBundle/MonoMac.dll
+  502 24482 R 367205688  20480 SparkleShare ??/MonoBundle/MonoMac.dll
+  502 24482 R 367209192   4096 SparkleShare ??/MonoBundle/MonoMac.dll
+  502 24482 R 367212616   4096 SparkleShare ??/MonoBundle/mscorlib.dll
+  502 24482 R 367204568  12288 SparkleShare ??/MonoBundle/MonoMac.dll
+  502 24482 R 367207568   4096 SparkleShare ??/MonoBundle/MonoMac.dll
+  502 24482 R 367205768   4096 SparkleShare ??/MonoBundle/MonoMac.dll
+  502 24482 R 367209656  16384 SparkleShare ??/MonoBundle/MonoMac.dll
+  502 24482 R 367205520   4096 SparkleShare ??/MonoBundle/MonoMac.dll
+  502 24482 R 367204736   8192 SparkleShare ??/MonoBundle/MonoMac.dll
+  502 24482 R 367205440  12288 SparkleShare ??/MonoBundle/MonoMac.dll
+  502 24482 R 367204512  20480 SparkleShare ??/MonoBundle/MonoMac.dll
+  502 24482 R 367205256  49152 SparkleShare ??/MonoBundle/MonoMac.dll
+  502 24482 R 367215984   4096 SparkleShare ??/MonoBundle/mscorlib.dll
+  502 24482 R 367209752   8192 SparkleShare ??/MonoBundle/MonoMac.dll
+  502 24482 R 367247016   8192 SparkleShare ??/MonoBundle/System.dll
+  502 24482 R 367249224   4096 SparkleShare ??/MonoBundle/System.dll
+  502 24482 R 367248760  28672 SparkleShare ??/MonoBundle/System.dll
+  502 24482 R 367211480   4096 SparkleShare ??/MonoBundle/mscorlib.dll
+  502 24482 R 367212776   4096 SparkleShare ??/MonoBundle/mscorlib.dll
+  502 24482 R 367212032  45056 SparkleShare ??/MonoBundle/mscorlib.dll
+  502 24482 R 367211992  16384 SparkleShare ??/MonoBundle/mscorlib.dll
+  502 24482 R 367212128   8192 SparkleShare ??/MonoBundle/mscorlib.dll
+  502 24482 R 367209160   8192 SparkleShare ??/MonoBundle/MonoMac.dll
+  502 24482 R 367209472   4096 SparkleShare ??/MonoBundle/MonoMac.dll
+  502 24482 R 367210072  61440 SparkleShare ??/MonoBundle/MonoMac.dll
+  502 24482 R 367205144  32768 SparkleShare ??/MonoBundle/MonoMac.dll
+  502 24482 R 367246896  36864 SparkleShare ??/MonoBundle/System.dll
+  502 24482 R 367215856  28672 SparkleShare ??/MonoBundle/mscorlib.dll
+  502 24482 R 367215472   4096 SparkleShare ??/MonoBundle/mscorlib.dll
+  502 24482 R 367205368  20480 SparkleShare ??/MonoBundle/MonoMac.dll
+  502 24482 R 183454976  24576 SparkleShare ??/dyld/dyld_shared_cache_i386
+  502 24482 R 367246976  16384 SparkleShare ??/MonoBundle/System.dll
+  502 24482 W 367164864   4096 SparkleShare ??/sparkleshare/config
+  502 24482 W 367164864   4096 SparkleShare ??/sparkleshare/config
+  502 24482 R 367247368   8192 SparkleShare ??/MonoBundle/System.dll
+  502 24482 R 367247976  16384 SparkleShare ??/MonoBundle/System.dll
+  502 24482 R 367246216  94208 SparkleShare ??/MonoBundle/System.dll
+  502 24482 R 367248568  12288 SparkleShare ??/MonoBundle/System.dll
+  502 24482 R 367247512  36864 SparkleShare ??/MonoBundle/System.dll
+  502 24482 R 367247624  40960 SparkleShare ??/MonoBundle/System.dll
+  502 24482 R 367248600   8192 SparkleShare ??/MonoBundle/System.dll
+  502 24482 R 20001864   4096 SparkleShare ??/bin/ssh-keygen/..namedfork/rsrc
+  502 24487 R 20001608  20480 SparkleShare ??/bin/ssh-keygen/..namedfork/rsrc
+  502 24482 R 367212600   4096 SparkleShare ??/MonoBundle/mscorlib.dll
+  502 24482 R 20001536   4096 SparkleShare ??/bin/ssh-keygen/..namedfork/rsrc
+  502 24482 R 20001544  32768 SparkleShare ??/bin/ssh-keygen/..namedfork/rsrc
+  502 24482 R 367214616   4096 SparkleShare ??/MonoBundle/mscorlib.dll
+  502 24487 R 20001648  32768 SparkleShare ??/bin/ssh-keygen/..namedfork/rsrc
+  502 24482 W 367164888   4096 SparkleShare ??/SparkleShare/Stefan Schmidt's key.txt
+  502 24482 R 367247592  12288 SparkleShare ??/MonoBundle/System.dll
+  502 24482 R 367247960   4096 SparkleShare ??/MonoBundle/System.dll
+  502 24482 R 367246144  36864 SparkleShare ??/MonoBundle/System.dll
+  501 24252 R 365170288  20480 SparkleShare ??/vm/swapfile2
+  502 24482 R 367212368  16384 SparkleShare ??/MonoBundle/mscorlib.dll
+^C
+
+MBP:~ dummy$ 
